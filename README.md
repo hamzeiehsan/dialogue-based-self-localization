@@ -1,4 +1,4 @@
-#An Entropy-based Model for Indoor Self-Localization through Dialogue
+# An Entropy-based Model for Indoor Self-Localization through Dialogue
 This is the implementation of an accepted short paper for the Conference on Spatial Information Theory (COSIT'22).
 ## Authors
 * Kimia Amouzandeh: [email](kamoozandeh@student.unimelb.edu.au)
